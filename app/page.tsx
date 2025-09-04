@@ -23,7 +23,7 @@ const Home: FC = () => {
           <div className="mt-6 flex justify-center lg:justify-start">
             <Link
               href="/products"
-                className="inline-flex items-center gap-2 px-8 py-3 rounded-full 
+              className="inline-flex items-center gap-2 px-8 py-3 rounded-full 
              bg-fm-aqua text-black font-semibold shadow-lg
              hover:bg-fm-aqua/80 transition-all duration-300"
             >
@@ -102,6 +102,9 @@ const Home: FC = () => {
         </div>
       </section>
 
+      {/* ✅ FAQ Section */}
+      <FAQ />
+
       {/* ✅ Terms of Services Section */}
       <section
         id="terms"
@@ -115,9 +118,6 @@ const Home: FC = () => {
           please contact our support team.
         </p>
       </section>
-
-      {/* ✅ FAQ Section */}
-      <FAQ />
     </>
   )
 }
