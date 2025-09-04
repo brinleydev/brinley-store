@@ -10,7 +10,7 @@ import '@/app/globals.css'
 const font = Montserrat({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'FM SHOP',
+  title: 'Brinley Developpment',
   description: 'Our works are louder than words',
 }
 

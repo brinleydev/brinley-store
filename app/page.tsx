@@ -13,7 +13,7 @@ const Home: FC = () => {
       <div className="mx-auto mt-20 flex w-[90%] max-w-[1400px] justify-between lg:mt-40">
         <section className="mx-auto flex max-w-[600px] flex-col gap-4 text-center lg:mx-0 lg:text-left">
           <h1 className="text-[35px]/[45px] font-bold italic md:text-[50px]/[60px] text-white">
-            Welcome to <span className="text-fm-aqua">Brinley SSHOP</span>
+            Welcome to <span className="text-fm-aqua">Brinley Developpment</span>
           </h1>
           <h6 className="font-medium text-fm-aqua md:text-lg">
             Premium FiveM Scripts & Full Servers – Ready to Launch 🚀
@@ -45,7 +45,7 @@ const Home: FC = () => {
       <div className="mt-16 bg-black/40 backdrop-blur-md p-8 rounded-2xl border border-white/10 shadow-lg w-[90%] max-w-[1200px] mx-auto">
         <h2 className="text-3xl font-bold text-white mb-4">About us</h2>
         <p className="text-gray-300 mb-6">
-          At <span className="text-pink-500 font-semibold">Brinley SSHOP</span>, we deliver
+          At <span className="text-pink-500 font-semibold">Brinley Developpment</span>, we deliver
           high-quality scripts and maps inspired by top servers.
           <span className="text-purple-400"> As the #1 in the market</span>, we focus on
           innovation, precision, and performance to elevate your gaming experience.
