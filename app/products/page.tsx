@@ -8,7 +8,7 @@ export default function ProductsPage() {
           OUR PRODUCTS CATALOGUE
         </h1>
         <p className="mt-2 text-lg text-gray-400">
-          Browse the complete library of Karma Developments System's
+          Browse the complete library of Brinley Developpments System's
         </p>
       </div>
 
